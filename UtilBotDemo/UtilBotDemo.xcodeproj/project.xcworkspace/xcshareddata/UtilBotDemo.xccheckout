@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>B3988454-6EB9-4E52-B138-F8CA28939DC3</string>
+	<string>FFE41D36-69B0-47C0-AA2D-9AD26F73C26A</string>
 	<key>IDESourceControlProjectName</key>
 	<string>UtilBotDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>7BEED294-628B-4E78-A472-2EAEBB37F5C9</key>
-		<string>ssh://bitbucket.org/cloudonmobile-team/utilbotdemo.git</string>
+		<key>6EF1CA01-8100-4228-ACEE-3427C36F9C49</key>
+		<string>ssh://github.com/Byjuanamn/UtilBotDemo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>UtilBotDemo/UtilBotDemo.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>7BEED294-628B-4E78-A472-2EAEBB37F5C9</key>
+		<key>6EF1CA01-8100-4228-ACEE-3427C36F9C49</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://bitbucket.org/cloudonmobile-team/utilbotdemo.git</string>
+	<string>ssh://github.com/Byjuanamn/UtilBotDemo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7BEED294-628B-4E78-A472-2EAEBB37F5C9</string>
+	<string>6EF1CA01-8100-4228-ACEE-3427C36F9C49</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>7BEED294-628B-4E78-A472-2EAEBB37F5C9</string>
+			<string>6EF1CA01-8100-4228-ACEE-3427C36F9C49</string>
 			<key>IDESourceControlWCCName</key>
-			<string>UtilBotDemo</string>
+			<string>desarrollo</string>
 		</dict>
 	</array>
 </dict>

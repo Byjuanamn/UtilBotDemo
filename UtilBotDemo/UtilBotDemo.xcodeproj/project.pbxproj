@@ -19,6 +19,7 @@
 		5D3B9C4D184D648D00256171 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D3B9C35184D648D00256171 /* UIKit.framework */; };
 		5D3B9C55184D648D00256171 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5D3B9C53184D648D00256171 /* InfoPlist.strings */; };
 		5D3B9C57184D648D00256171 /* UtilBotDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D3B9C56184D648D00256171 /* UtilBotDemoTests.m */; };
+		5D3B9C62184D6D3A00256171 /* JAM.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D3B9C61184D6D3A00256171 /* JAM.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,8 @@
 		5D3B9C52184D648D00256171 /* UtilBotDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UtilBotDemoTests-Info.plist"; sourceTree = "<group>"; };
 		5D3B9C54184D648D00256171 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5D3B9C56184D648D00256171 /* UtilBotDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UtilBotDemoTests.m; sourceTree = "<group>"; };
+		5D3B9C60184D6D3A00256171 /* JAM.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JAM.h; sourceTree = "<group>"; };
+		5D3B9C61184D6D3A00256171 /* JAM.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JAM.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +114,8 @@
 				5D3B9C41184D648D00256171 /* JAMAppDelegate.m */,
 				5D3B9C43184D648D00256171 /* Images.xcassets */,
 				5D3B9C38184D648D00256171 /* Supporting Files */,
+				5D3B9C60184D6D3A00256171 /* JAM.h */,
+				5D3B9C61184D6D3A00256171 /* JAM.m */,
 			);
 			path = UtilBotDemo;
 			sourceTree = "<group>";
@@ -240,6 +245,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D3B9C62184D6D3A00256171 /* JAM.m in Sources */,
 				5D3B9C3E184D648D00256171 /* main.m in Sources */,
 				5D3B9C42184D648D00256171 /* JAMAppDelegate.m in Sources */,
 			);
@@ -444,6 +450,7 @@
 				5D3B9C5C184D648D00256171 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5D3B9C5D184D648D00256171 /* Build configuration list for PBXNativeTarget "UtilBotDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -452,6 +459,7 @@
 				5D3B9C5F184D648D00256171 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

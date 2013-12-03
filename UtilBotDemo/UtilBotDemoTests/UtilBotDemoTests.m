@@ -7,6 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
+#import "JAM.h"
 
 @interface UtilBotDemoTests : XCTestCase
 
@@ -26,9 +27,13 @@
     [super tearDown];
 }
 
-- (void)testExample
-{
-    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+- (void)testJAM{
+    JAM *j = [[JAM alloc]init];
+    XCTAssertNotNil(j, @"Modelo creao");
 }
+//- (void)testExample
+//{
+//    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+//}
 
 @end
